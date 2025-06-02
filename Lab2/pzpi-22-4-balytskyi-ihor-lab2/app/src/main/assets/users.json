@@ -1,0 +1,16 @@
+[
+  {
+    "id": "u1",
+    "name": "Олена Іванова",
+    "email": "olena@gmail.com",
+    "password": "123456",
+    "isVerified": true
+  },
+  {
+    "id": "u2",
+    "name": "Ігор Петренко",
+    "email": "ihor@gmail.com",
+    "password": "qwerty",
+    "isVerified": false
+  }
+]

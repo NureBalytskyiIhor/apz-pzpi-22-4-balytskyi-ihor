@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyCharityApp</string>
+    <string name="title_activity_donations_screen">DonationsScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_donation_card">DonationCard</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_my_donations_screen">MyDonationsScreen</string>
+    <string name="title_activity_donation_details_screen">DonationDetailsScreen</string>
+    <string name="title_activity_payment_screen">PaymentScreen</string>
+    <string name="title_activity_my_created_donations_screen">MyCreatedDonationsScreen</string>
+    <string name="title_activity_create_donation_request_screen">CreateDonationRequestScreen
+    </string>
+    <string name="title_activity_add_news_screen">AddNewsScreen</string>
+</resources>
