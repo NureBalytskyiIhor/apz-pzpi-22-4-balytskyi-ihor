@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: charity-backend
+spec:
+  replicas: 2  # Кількість копій сервера
+  selector:
+    matchLabels:
+      app: charity-backend
+  template:
+    metadata:
+      labels:
+        app: charity-backend
+    spec:
+      containers:
+        - name: charity-container
+          image: charity-backend:v2
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 5000

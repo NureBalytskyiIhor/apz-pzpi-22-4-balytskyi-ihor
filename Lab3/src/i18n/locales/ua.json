@@ -1,0 +1,113 @@
+{
+  "login": "Вхід",
+  "register": "Реєстрація",
+  "email": "Email",
+  "password": "Пароль",
+  "name": "Ім’я",
+  "remember": "Запамʼятати мене",
+  "no_account": "Немає акаунту?",
+  "have_account": "Уже маєте акаунт?",
+  "logout": "Вийти",
+  "my_collections": "Мої збори",
+  "profile": "Профіль",
+  "not_verified_notice": "Щоб мати доступ до цієї вкладки, потрібно пройти верифікацію.",
+  "profile_section": {
+    "title": "Профіль користувача",
+    "name": "Ім’я",
+    "email": "Email",
+    "status": "Статус",
+    "verified": "Верифікований",
+    "notVerified": "Не верифікований",
+    "editButton": "Редагувати профіль"
+  },
+    "myCollections": {
+  "loading": "Завантаження...",
+  "title": "Мої збори",
+  "createButton": "➕ Створити збір",
+  "noDonations": "У вас поки немає створених зборів.",
+  "goal": "Мета",
+  "raised": "Зібрано",
+  "created": "Створено"
+},
+"donations": {
+  "loading": "Завантаження...",
+  "title": "Історія донатів",
+  "noDonations": "Схоже, ви ще не зробили жодного пожертвування.",
+  "amount": "Сума",
+  "date": "Дата",
+  "unknownDonation": "Невідомий збір"
+},
+"donationDetails": {
+  "loading": "Завантаження...",
+  "loadError": "Помилка завантаження збору",
+  "goal": "Мета",
+  "raised": "Зібрано",
+  "donate": "Задонатити",
+  "addNews": "Додати новину",
+  "cancel": "Скасувати",
+  "submitNews": "Додати",
+  "newsTitle": "Заголовок новини",
+  "newsText": "Текст новини",
+  "requiredFields": "Усі поля обовʼязкові",
+  "newsError": "Помилка додавання новини",
+  "newsHeader": "Новини",
+  "noNews": "Поки немає новин"
+},
+"collections": {
+  "loading": "Завантаження...",
+  "title": "Збори",
+  "searchPlaceholder": "Пошук за назвою",
+  "sortNewest": "Сортувати: спочатку нові",
+  "sortOldest": "Сортувати: спочатку старі",
+  "noResults": "Зборів не знайдено.",
+  "goal": "Мета",
+  "raised": "Зібрано",
+  "created": "Створено",
+  "more": "Детальніше"
+},
+"nav": {
+  "title": "Навігація",
+  "collections": "Збори",
+  "donations": "Донати",
+  "myCollections": "Мої збори",
+  "profile": "Профіль"
+},
+"admin": {
+  "title": "Панель адміністратора",
+  "users": "Користувачі",
+  "usersHint": "Перегляд та редагування користувачів системи.",
+  "manageUsers": "Керувати користувачами",
+  "collections": "Збори",
+  "collectionsHint": "Перегляд і видалення зборів.",
+  "manageCollections": "Керувати зборами",
+  "backup": "Резервна копія",
+  "backupHint": "Експортувати дані користувачів і зборів.",
+  "export": "Експортувати",
+  "import": "Імпортувати",
+  "importHint": "Імпортувати дані з JSON-файлу.",
+   "searchPlaceholder": "Пошук за імʼям або email",
+  "filter": {
+    "all": "Усі",
+    "verified": "Верифіковані",
+    "unverified": "Неверифіковані"
+  },
+  "name": "Імʼя",
+  "status": "Статус",
+  "actions": "Дії",
+  "verified": "Верифікований",
+  "unverified": "Неверифікований",
+  "toggleVerification": "Змінити верифікацію",
+  "delete": "Видалити",
+  "confirmWithCollections": "У цього користувача є збори. Ви впевнені, що хочете видалити його разом із повʼязаними даними?"
+},
+"adminCollections": {
+  "searchPlaceholder": "Пошук за назвою збору",
+  "title": "Назва",
+  "goal": "Мета",
+  "raised": "Зібрано",
+  "creator": "Автор",
+  "confirmDelete": "Ви впевнені, що хочете видалити збір \"{{title}}\"?"
+}
+
+}
+

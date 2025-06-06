@@ -1,0 +1,116 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "remember": "Remember me",
+  "no_account": "Don't have an account?",
+  "have_account": "Already have an account?",
+  "logout": "Logout",
+  "my_collections": "My Collections",
+  "profile": "Profile",
+  "not_verified_notice": "To access this tab, you need to be verified.",
+  "profile_section": {
+    "title": "User Profile",
+    "name": "Name",
+    "email": "Email",
+    "status": "Status",
+    "verified": "Verified",
+    "notVerified": "Not verified",
+    "editButton": "Edit Profile"
+  },
+  "myCollections": {
+  "loading": "Loading...",
+  "title": "My Collections",
+  "createButton": "➕ Create Collection",
+  "noDonations": "You have not created any collections yet.",
+  "goal": "Goal",
+  "raised": "Raised",
+  "created": "Created"
+},
+"donations": {
+  "loading": "Loading...",
+  "title": "Donation History",
+  "noDonations": "It looks like you haven't made any donations yet.",
+  "amount": "Amount",
+  "date": "Date",
+  "unknownDonation": "Unknown donation"
+},
+"donationDetails": {
+  "loading": "Loading...",
+  "loadError": "Failed to load donation",
+  "goal": "Goal",
+  "raised": "Raised",
+  "donate": "Donate",
+  "addNews": "Add News",
+  "cancel": "Cancel",
+  "submitNews": "Add",
+  "newsTitle": "News title",
+  "newsText": "News text",
+  "requiredFields": "All fields are required",
+  "newsError": "Error adding news",
+  "newsHeader": "News",
+  "noNews": "No news yet"
+},
+"collections": {
+  "loading": "Loading...",
+  "title": "Collections",
+  "searchPlaceholder": "Search by title",
+  "sortNewest": "Sort: newest first",
+  "sortOldest": "Sort: oldest first",
+  "noResults": "No collections found.",
+  "goal": "Goal",
+  "raised": "Raised",
+  "created": "Created",
+  "more": "More"
+},
+"nav": {
+  "title": "Navigation",
+  "collections": "Collections",
+  "donations": "Donations",
+  "myCollections": "My Collections",
+  "profile": "Profile"
+},
+"admin": {
+  "title": "Admin Panel",
+  "users": "Users",
+  "usersHint": "View and edit system users.",
+  "manageUsers": "Manage Users",
+  "collections": "Collections",
+  "collectionsHint": "View and delete all collections.",
+  "manageCollections": "Manage Collections",
+  "backup": "Backup",
+  "backupHint": "Export users and collections data.",
+  "export": "Export",
+  "import": "Import",
+  "importHint": "Import data from a JSON file.",
+  "searchPlaceholder": "Search by name or email",
+  "filter": {
+    "all": "All",
+    "verified": "Verified",
+    "unverified": "Unverified"
+  },
+  "name": "Name",
+  "status": "Status",
+  "actions": "Actions",
+  "verified": "Verified",
+  "unverified": "Unverified",
+  "toggleVerification": "Toggle verification",
+  "delete": "Delete",
+  "confirmWithCollections": "This user has active collections. Are you sure you want to delete them along with all related data?"
+
+},
+"adminCollections": {
+  "searchPlaceholder": "Search by title",
+  "title": "Title",
+  "goal": "Goal",
+  "raised": "Raised",
+  "creator": "Creator",
+  "confirmDelete": "Are you sure you want to delete the collection \"{{title}}\"?"
+}
+
+
+
+
+}
